@@ -21,7 +21,6 @@ group :production do
 end
 
 group :development do
- gem 'meta_request'
   # gem 'heroku', '~> 2'
   # gem 'capistrano', '~> 2.9'
   # gem 'guard', '~> 1'

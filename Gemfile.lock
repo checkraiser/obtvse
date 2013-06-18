@@ -1,8 +1,8 @@
 GIT
   remote: git://github.com/rsl/stringex.git
-  revision: cdac489cb78de158dd52cfbfa388a3c9c3069e4e
+  revision: a1651cc58e38c000c3f60c5c05a920ad131604b8
   specs:
-    stringex (1.3.2)
+    stringex (2.0.2)
 
 GEM
   remote: https://rubygems.org/
@@ -210,6 +210,6 @@ DEPENDENCIES
   sass-rails (~> 3)
   spork (~> 0.9)
   sqlite3 (~> 1)
-  stringex (~> 1)!
+  stringex (~> 2)!
   thin (= 1.2.11)
   uglifier (~> 1)
