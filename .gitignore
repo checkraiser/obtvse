@@ -9,7 +9,7 @@
 /vendor/ruby
 /vendor/cache
 /bin/
-
+*.lock
 # Ignore the default SQLite database.
 /db/*.sqlite3
 
